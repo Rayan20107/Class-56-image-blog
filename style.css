@@ -1,0 +1,39 @@
+body {
+    text-align: center;
+    background-color: aliceblue;
+}
+
+div {
+    margin-top: 15px;
+}
+
+.image-section {
+    display: flex;
+    justify-content: center;
+}
+
+.section-style {
+    margin-right: 25px;
+    margin-left: 25px;
+}
+
+.John_Muir {
+    margin-right: 25px;
+    margin-left: 25px;
+}
+
+.Maxime_Lagace {
+    margin-right: 25px;
+    margin-left: 25px;
+}
+
+.Ralph-Waldo-Emerson {
+    margin-left: 25px;
+    margin-right: 25px;
+}
+
+.Albert_Einstein
+{
+    margin-left: 25px;
+    margin-right: 25px;
+}
